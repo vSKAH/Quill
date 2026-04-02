@@ -1,10 +1,10 @@
-package fr.sktechnology.hytale.quill.translation;
+package tech.skworks.hytale.quill.translation;
 
 import com.hypixel.hytale.server.core.Message;
 import com.hypixel.hytale.server.core.modules.i18n.I18nModule;
 import com.hypixel.hytale.server.core.universe.PlayerRef;
 import com.hypixel.hytale.server.core.util.MessageUtil;
-import fr.sktechnology.hytale.quill.Quill;
+import tech.skworks.hytale.quill.Quill;
 import lombok.experimental.UtilityClass;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;

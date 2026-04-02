@@ -1,4 +1,4 @@
-package fr.sktechnology.hytale.quill.format;
+package tech.skworks.hytale.quill.format;
 
 import lombok.Getter;
 

@@ -1,4 +1,4 @@
-package fr.sktechnology.hytale.quill.translation;
+package tech.skworks.hytale.quill.translation;
 
 import com.hypixel.hytale.protocol.*;
 import com.hypixel.hytale.server.core.Message;

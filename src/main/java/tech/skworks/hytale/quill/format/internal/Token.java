@@ -1,4 +1,4 @@
-package fr.sktechnology.hytale.quill.format.internal;
+package tech.skworks.hytale.quill.format.internal;
 
 /**
  * Project Quill

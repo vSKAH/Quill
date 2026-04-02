@@ -1,10 +1,10 @@
-package fr.sktechnology.hytale.quill.translation;
+package tech.skworks.hytale.quill.translation;
 
 import com.hypixel.hytale.protocol.*;
 import com.hypixel.hytale.server.core.Message;
 import com.hypixel.hytale.server.core.util.MessageUtil;
-import fr.sktechnology.hytale.quill.Quill;
-import fr.sktechnology.hytale.quill.format.ParsedMessage;
+import tech.skworks.hytale.quill.Quill;
+import tech.skworks.hytale.quill.format.ParsedMessage;
 import org.jetbrains.annotations.Nullable;
 
 import java.util.List;

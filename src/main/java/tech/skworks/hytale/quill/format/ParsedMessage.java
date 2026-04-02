@@ -1,4 +1,4 @@
-package fr.sktechnology.hytale.quill.format;
+package tech.skworks.hytale.quill.format;
 
 import com.hypixel.hytale.server.core.Message;
 import lombok.AccessLevel;

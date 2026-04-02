@@ -1,4 +1,4 @@
-package fr.sktechnology.hytale.quill.format.internal;
+package tech.skworks.hytale.quill.format.internal;
 
 import com.hypixel.hytale.protocol.MaybeBool;
 import com.hypixel.hytale.server.core.Message;

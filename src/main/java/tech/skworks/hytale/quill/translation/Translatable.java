@@ -1,4 +1,4 @@
-package fr.sktechnology.hytale.quill.translation;
+package tech.skworks.hytale.quill.translation;
 
 /**
  * Project Quill

@@ -1,6 +1,6 @@
-package fr.sktechnology.hytale.quill.format.internal;
+package tech.skworks.hytale.quill.format.internal;
 
-import fr.sktechnology.hytale.quill.format.Colors;
+import tech.skworks.hytale.quill.format.Colors;
 
 import java.awt.*;
 import java.util.List;

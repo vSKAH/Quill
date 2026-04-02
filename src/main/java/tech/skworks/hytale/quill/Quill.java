@@ -1,10 +1,10 @@
-package fr.sktechnology.hytale.quill;
+package tech.skworks.hytale.quill;
 
 import com.hypixel.hytale.server.core.Message;
-import fr.sktechnology.hytale.quill.format.ParsedMessage;
-import fr.sktechnology.hytale.quill.format.internal.Renderer;
-import fr.sktechnology.hytale.quill.format.internal.Token;
-import fr.sktechnology.hytale.quill.format.internal.Tokenizer;
+import tech.skworks.hytale.quill.format.ParsedMessage;
+import tech.skworks.hytale.quill.format.internal.Renderer;
+import tech.skworks.hytale.quill.format.internal.Token;
+import tech.skworks.hytale.quill.format.internal.Tokenizer;
 import lombok.experimental.UtilityClass;
 import org.jetbrains.annotations.NotNull;
 
