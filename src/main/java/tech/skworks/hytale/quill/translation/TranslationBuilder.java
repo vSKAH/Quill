@@ -2,6 +2,7 @@ package tech.skworks.hytale.quill.translation;
 
 import com.hypixel.hytale.protocol.*;
 import com.hypixel.hytale.server.core.Message;
+import com.hypixel.hytale.server.core.receiver.IMessageReceiver;
 import com.hypixel.hytale.server.core.universe.PlayerRef;
 import org.jetbrains.annotations.NotNull;
 
@@ -77,8 +78,8 @@ public final class TranslationBuilder {
         return template.resolve(params, msgParams);
     }
 
-    public void send(@NotNull PlayerRef player) {
-        player.sendMessage(build());
+    public void send(@NotNull IMessageReceiver receiver) {
+        receiver.sendMessage(build());
     }
 
     public void broadcast(@NotNull Iterable<PlayerRef> players) {

@@ -2,6 +2,7 @@ package tech.skworks.hytale.quill.translation;
 
 import com.hypixel.hytale.server.core.Message;
 import com.hypixel.hytale.server.core.modules.i18n.I18nModule;
+import com.hypixel.hytale.server.core.receiver.IMessageReceiver;
 import com.hypixel.hytale.server.core.universe.PlayerRef;
 import com.hypixel.hytale.server.core.util.MessageUtil;
 import tech.skworks.hytale.quill.Quill;
